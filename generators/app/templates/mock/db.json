@@ -1,0 +1,17 @@
+{
+  "fetchUserRepositories": {
+    "status": 200,
+    "data": [
+      {
+        "id": "002",
+        "name": "测试2",
+        "content": "我是测试测试"
+      },
+      {
+        "id": "004",
+        "name": "测试4",
+        "content": "vue@3.0"
+      }
+    ]
+  }
+}

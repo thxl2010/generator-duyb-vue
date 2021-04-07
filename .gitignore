@@ -1,0 +1,29 @@
+.DS_Store
+node_modules
+/dist
+
+/test
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local History for Visual Studio Code
+.history/
+/part-2/module-1/task-2-CLI/code/output/my-duyb-vue

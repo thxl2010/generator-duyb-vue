@@ -1,0 +1,10 @@
+{
+  "port": 3334,
+  "watch": true,
+  "static": "./",
+  "read-only": false,
+  "no-cors": false,
+  "no-gzip": false,
+  "routes": "./mock/routes.json",
+  "middlewares": ["./mock/post-to-get.js"]
+}

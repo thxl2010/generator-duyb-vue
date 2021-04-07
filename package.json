@@ -1,0 +1,20 @@
+{
+  "name": "generator-duyb-vue",
+  "version": "1.0.0",
+  "description": "yeoman generator vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman",
+    "generator",
+    "vue"
+  ],
+  "author": "Duyb <1255248666@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "yeoman-generator": "^5.2.0"
+  }
+}
